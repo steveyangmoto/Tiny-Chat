@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiny Chat</string>
+    <string name="hello_world"></string>
+    <string name="cannot_send_message">cannot be sent at this time. Will try again when network is reconnected.</string>
+</resources>
